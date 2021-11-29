@@ -15,3 +15,4 @@ This repository contains GUI Python app which is my implementation of McCabe–T
 - number of theoretical plates are estimated using equilibrium curve and equations mentioned above
 
 ## GUI
+![GUI interface](https://raw.githubusercontent.com/kbarn411/KolumnaRektyfikacyjna/main/gui.png)
